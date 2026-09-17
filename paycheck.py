@@ -1,6 +1,6 @@
 # Name: Chane Taylor
 # Date: 2026-09-16
-
+# Read inputs
 name = input()
 hours_worked = float(input())
 hourly_rate = float(input())
